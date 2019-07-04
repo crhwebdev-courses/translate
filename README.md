@@ -1,6 +1,6 @@
 # TRANSLATE
 
-A project for Udemy course: Modern React and Redux (2019 Update). This display a simple form in either English or Dutch.
+A project for Udemy course: Modern React and Redux (2019 Update). This display a simple form in either English or Dutch using React context system in place of Redux.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
